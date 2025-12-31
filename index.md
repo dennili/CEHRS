@@ -54,7 +54,7 @@ monitoring.
 
 ### 💻 **Technical Support Specialist**  
 *Robert Half Technology* – *Irvine, CA*  
-*January 2016* – *November 2018*  
+*January 2018* – *November 2018*  
 - Supported end-users with technical issues, both in-person and remotely
 - Maintained accurate documentation of IT systems and procedures, ensuring compliance with organizational standards.
 
