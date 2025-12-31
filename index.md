@@ -19,7 +19,7 @@ Electronic Health Records Specialist.
 
 ## 💼 Work Experience
 
-### **Certified Nursing Assistant (Clinical Rotation)**  
+### 🩺 **Certified Nursing Assistant (Clinical Rotation)**  
 *Trellis Chino* – *Chino, CA*  
 *September 2025* – *October 2025*  
 - Provided companionship and emotional support to enhance
@@ -31,7 +31,7 @@ real-time charting compliance.
 - Maintained strict HIPAA compliance when accessing, updating, and discussing protected health
 information (PHI).
   
-### **Medical Assistant Extern**  
+### 🩺 **Medical Assistant Extern**  
 *JDMD Clinics* – *Ontario, CA*  
 *March 2025* – *June 2025*  
 - Performed patient intake, vital signs, and EHR charting using Practice Fusion, ensuring complete andaccurate medical records
@@ -39,20 +39,20 @@ information (PHI).
 monitoring.
 - Managed front-desk operations including scheduling, registration, and maintaining up-to-date patient demographics and consent forms.
 
-### **RMA Coordinator**  
+### 💻**RMA Coordinator**  
 *The Factory Depot* – *Riverside, CA*  
 *June 2019* – *May 2024*  
 - Managed return merchandise authorization (RMA) cases, achieving a 95% resolution rate within SLAs
 - Optimized return handling systems, improving processing efficiency by 30%
 - Resolved technical issues remotely and on-site, providing exceptional customer service.
 
-### **Technical Support Specialist**  
+### 💻 **Technical Support Specialist**  
 *Charter Spectrum* – *Ontario, CA*  
 *November 2018* – *June 2019*  
 - Provided remote technical support for internet connectivity, wireless network configurations, and mobile troubleshooting.
 - Delivered timely resolutions with a focus on customer satisfaction and operational efficiency.
 
-### **Technical Support Specialist**  
+### 💻 **Technical Support Specialist**  
 *Robert Half Technology* – *Irvine, CA*  
 *January 2016* – *November 2018*  
 - Supported end-users with technical issues, both in-person and remotely
@@ -73,19 +73,19 @@ monitoring.
 *Chaffey College* – *Rancho Cucamonga, CA 2025*
 *Completed 60+ units*  
 
-[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)<br/>
+🔐[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)<br/>
 *John Hopkins University* – *Coursera*  
 Certificate of Completion 
 
-**Medical Assistant Course**  
+**📋Medical Assistant Course**  
 *HealthStaff Training institute* – *Ontario, CA*  
 Certificate of Completion 
 
-**Certified Nursing Assistant Course**  
+**📋Certified Nursing Assistant Course**  
 *McKallen Medical* – *Ontario, CA*  
 Certificate of Completion   
 
-**Certified Nursing Assistant**  
+**📋Certified Nursing Assistant**  
 *California Department of Public Health (CDPH)*  *2025*  
 License Number: *CNA 01358120*
 
