@@ -57,8 +57,9 @@ monitoring.
 *January 2016* – *November 2018*  
 - Supported end-users with technical issues, both in-person and remotely
 - Maintained accurate documentation of IT systems and procedures, ensuring compliance with organizational standards
----
 
+---
+  
 ## 🎓 Education / Certifications / License
 <!--
 ### **Degree or Certification Name**  
