@@ -44,7 +44,7 @@ monitoring.
 *June 2019* – *May 2024*  
 - Managed return merchandise authorization (RMA) cases, achieving a 95% resolution rate within SLAs
 - Optimized return handling systems, improving processing efficiency by 30%
-- •	Resolved technical issues remotely and on-site, providing exceptional customer service.
+- Resolved technical issues remotely and on-site, providing exceptional customer service.
 
 ### **Technical Support Specialist**  
 *Charter Spectrum* – *Ontario, CA*  
@@ -57,6 +57,7 @@ monitoring.
 *January 2016* – *November 2018*  
 - Supported end-users with technical issues, both in-person and remotely
 - Maintained accurate documentation of IT systems and procedures, ensuring compliance with organizational standards
+- 
 ---
 
 ## 🎓 Education / Certifications / License
