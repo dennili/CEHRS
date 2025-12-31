@@ -52,11 +52,11 @@ monitoring.
 - Provided remote technical support for internet connectivity, wireless network configurations, and mobile troubleshooting.
 - Delivered timely resolutions with a focus on customer satisfaction and operational efficiency.
 
-  ### **Technical Support Specialist**  
+### **Technical Support Specialist**  
 *Robert Half Technology* – *Irvine, CA*  
 *January 2016* – *November 2018*  
 - Supported end-users with technical issues, both in-person and remotely
-- Maintained accurate documentation of IT systems and procedures, ensuring compliance with organizational standards.
+- Maintained accurate documentation of IT systems and procedures, ensuring compliance with organizational standards
 ---
 
 ## 🎓 Education / Certifications / License
@@ -66,13 +66,13 @@ monitoring.
 *Year Completed*  
 - Relevant coursework or specialization.
 -->
-https://coursera.org/share/871dbbc824d66ccf633c8862221fef98
+
 **Post-Secondary Education**  
 *Chabot College* – *Hayward, CA  2002*
 *Chaffey College* – *Rancho Cucamonga, CA 2025*
 *Completed 60+ units*  
 
-**HealthCare IT Support**   [link:](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)
+[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)<br/>
 *John Hopkins University* – *Coursera*  
 Certificate of Completion 
 
@@ -93,7 +93,7 @@ License Number: *CNA 01358120*
 
 ## 💪 Skills
 
-- **SOftware Skills**: OpenEMR, Practice Fusion, Simple Practice, SQL, MS Exccel, Zendesk, Documentation and Communication
+- **Software Skills**: OpenEMR, Practice Fusion, Simple Practice, SQL, MS Exccel, Zendesk, Documentation and Communication
 - **Tools & Technologies**: SQL, MS Excel, Zendesk, Windows 10/11, 
 
 ---
