@@ -94,7 +94,7 @@ License Number: *CNA 01358120*
 
 ## 💪 Skills
 
-- **Software Skills**: OpenEMR, Practice Fusion, Simple Practice, SQL, MS Exccel, Zendesk, Documentation and Communication
+- **Software Skills**: OpenEMR, Practice Fusion, Simple Practice, SQL, MS Excel, Zendesk, Documentation and Communication
 - **Tools & Technologies**: SQL, MS Excel, Zendesk, Windows 10/11, 
 
 ---
