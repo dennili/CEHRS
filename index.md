@@ -9,7 +9,8 @@
 
 ## 📚 Profile
 
-Certified Electronic Health Records Specialist.
+Electronic Health Records Specialist.
+- Currently preparing for the NHA's CEHRS certification exam
 - I am a passionate  with patient care  and privacy in healthcare.
 - I enjoy solving problems and learning new skills.
 - Fun fact: I love both healthcare and music because they both involve listening, creativity, and finding harmony.
@@ -38,6 +39,24 @@ information (PHI).
 monitoring.
 - Managed front-desk operations including scheduling, registration, and maintaining up-to-date patient demographics and consent forms.
 
+### **RMA Coordinator**  
+*The Factory Depot* – *Riverside, CA*  
+*June 2019* – *May 2024*  
+- Managed return merchandise authorization (RMA) cases, achieving a 95% resolution rate within SLAs
+- Optimized return handling systems, improving processing efficiency by 30%
+- •	Resolved technical issues remotely and on-site, providing exceptional customer service.
+
+### **Technical Support Specialist**  
+*Charter Spectrum* – *Ontario, CA*  
+*November 2018* – *June 2019*  
+- Provided remote technical support for internet connectivity, wireless network configurations, and mobile troubleshooting.
+- Delivered timely resolutions with a focus on customer satisfaction and operational efficiency.
+
+  ### **Technical Support Specialist**  
+*Robert Half Technology* – *Irvine, CA*  
+*January 2016* – *November 2018*  
+- Supported end-users with technical issues, both in-person and remotely
+- Maintained accurate documentation of IT systems and procedures, ensuring compliance with organizational standards.
 ---
 
 ## 🎓 Education / Certifications / License
@@ -47,11 +66,19 @@ monitoring.
 *Year Completed*  
 - Relevant coursework or specialization.
 -->
-
+https://coursera.org/share/871dbbc824d66ccf633c8862221fef98
 **Post-Secondary Education**  
 *Chabot College* – *Hayward, CA  2002*
 *Chaffey College* – *Rancho Cucamonga, CA 2025*
 *Completed 60+ units*  
+
+**HealthCare IT Support**   [link:](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)
+*John Hopkins University* – *Coursera*  
+Certificate of Completion 
+
+**Medical Assistant Course**  
+*HealthStaff Training institute* – *Ontario, CA*  
+Certificate of Completion 
 
 **Certified Nursing Assistant Course**  
 *McKallen Medical* – *Ontario, CA*  
@@ -61,17 +88,13 @@ Certificate of Completion
 *California Department of Public Health (CDPH)*  *2025*  
 License Number: *CNA 01358120*
 
-**Medical Assistant Course**  
-*HealthStaff Training institute* – *Ontario, CA*  
-Certificate of Completion 
 
 ---
 
 ## 💪 Skills
 
-- **Technical Skills**: Patient Care and Hygiene Assistance, Vital Signs Monitoring, Mobility and Transfer Support, Documentation and Communication
-- **Soft Skills**:  Empathy and Compassion, Communication, Patience and Adaptability
-- **Tools & Technologies**: EHR, Patient Lifts and Transfer Devices, Vital Signs Monitoring Equipment, PPE
+- **SOftware Skills**: OpenEMR, Practice Fusion, Simple Practice, SQL, MS Exccel, Zendesk, Documentation and Communication
+- **Tools & Technologies**: SQL, MS Excel, Zendesk, Windows 10/11, 
 
 ---
 
@@ -95,7 +118,7 @@ Certificate of Completion
 Feel free to reach out to me via:
 
 - Email: [dennili@yahoo.com](mailto:dennili@yahoo.com)  
-- Website: [https://github.com/dennis/CNA](https://dennili.github.io/CNA/)
+- Website: [https://github.com/dennis/CEHRS](https://dennili.github.io/CEHRS/)
  <!-- - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  -->
 
 ---
