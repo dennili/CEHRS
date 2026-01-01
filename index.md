@@ -9,7 +9,7 @@
 
 ## 📚 Profile
 
-Electronic Health Records Specialist.
+
 - Currently preparing for the NHA's CEHRS certification exam
 - I am a passionate  with patient care  and privacy in healthcare.
 - I enjoy solving problems and learning new skills.
