@@ -93,12 +93,12 @@ monitoring.
  - Problem-Solving & Analytical Thinking
  - Customer Service
 
-**Clinical & Administrative Skills**
+**Clinical & Administrative Skills**:
  - Medical Terminology
  - Patient Scheduling & Coordination
  - Chart Audits & Documentation
 
-**Technical Skills**
+**Technical Skills**:
  - Data Entry & Management
  - Database Querying (SQL)
  - EHR Navigation & Optimization
