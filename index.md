@@ -19,18 +19,6 @@
 
 ## 💼 Work Experience
 
-### 🩺 **Certified Nursing Assistant (Clinical Rotation)**  
-*Trellis Chino* – *Chino, CA*  
-*September 2025* – *October 2025*  
-- Provided companionship and emotional support to enhance
-residents’ quality of life and promote a homelike environment.
-- Monitored and reported any safety concerns or environmental
-hazards to ensure a secure living space for residents.
-- Documented patient care activities, vital signs, and ADLs accurately in PointClickCare EHR, ensuring
-real-time charting compliance.
-- Maintained strict HIPAA compliance when accessing, updating, and discussing protected health
-information (PHI).
-  
 ### 🩺 **Medical Assistant Extern**  
 *JDMD Clinics* – *Ontario, CA*  
 *March 2025* – *June 2025*  
@@ -80,15 +68,6 @@ Certificate of Completion
 **📋Medical Assistant Course**  
 *HealthStaff Training institute* – *Ontario, CA*  
 Certificate of Completion 
-
-**📋Certified Nursing Assistant Course**  
-*McKallen Medical* – *Ontario, CA*  
-Certificate of Completion   
-
-**📋Certified Nursing Assistant**  
-*California Department of Public Health (CDPH)*  *2025*  
-License Number: *CNA 01358120*
-
 
 ---
 
