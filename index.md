@@ -62,12 +62,12 @@ monitoring.
 *Completed 60+ units*  
 
 🔐[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)<br/>
-*John Hopkins University* – *Coursera*  
-Certificate of Completion 
+  *John Hopkins University* – *Coursera*  
+   Certificate of Completion 
 
-**📋Medical Assistant Course**  
-*HealthStaff Training institute* – *Ontario, CA*  
-Certificate of Completion 
+  **📋Medical Assistant Course**  
+  *HealthStaff Training institute* – *Ontario, CA*  
+  Certificate of Completion 
 
 ---
 
@@ -76,9 +76,36 @@ Certificate of Completion
  **Software Skills**:
  - SQL
  - MS Excel (VLookUp, Data Analysis, Formulas)
- - 
- **Tools & Technologies**: SQL, MS Excel, Zendesk, OpenEMR, HEDIS, HL7
+ - Electronic Health Records (EHR) Systems: OpenEMR
+ - Practice Management Software: Practice Fusion, Simple Practice
+ 
+   
+ **Tools & Technologies**: 
+ - Customer Support Tools: Zendesk
+ - Knowledge of Healthcare Data Standards: HL7, FHIR (Fast Healthcare Interoperability Resources)
+ - Reporting & Analytics: Power BI
 
+**Regulatory & Compliance Knowledge**: 
+ - HIPAA Compliance: Privacy Rule, Security Rule, Breach Notification Rule
+ - PHI Handling: Safeguarding Protected Health Information (PHI)
+ - Healthcare Regulations: HITECH Act, OSHA Guidelines
+
+**Soft Skills**: 
+ - Attention to Detail
+ - Strong Communication (Verbal & Written)
+ - Problem-Solving & Analytical Thinking
+ - Customer Service
+
+**Clinical & Administrative Skills**
+ - Medical Terminology
+ - Patient Scheduling & Coordination
+ - Chart Audits & Documentation
+
+ ** Technical Skills**
+ - Data Entry & Management
+ - Database Querying (SQL)
+ - EHR Navigation & Optimization
+ - Troubleshooting Technical Issues
 ---
 
 ## 🌟 Interests
