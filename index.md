@@ -101,6 +101,7 @@ License Number: *CNA 01358120*
 
 ## 🌟 Interests
 
+- Execution & output
 - Music
 - Computers
 - Pets
