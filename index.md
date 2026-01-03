@@ -73,8 +73,11 @@ Certificate of Completion
 
 ## 💪 Skills
 
-- **Software Skills**: OpenEMR, Practice Fusion, Simple Practice, SQL, MS Excel, Zendesk, Documentation and Communication
-- **Tools & Technologies**: SQL, MS Excel, Zendesk, Windows 10/11, 
+ **Software Skills**:
+ - SQL
+ - MS Excel (VLookUp, Data Analysis, Formulas)
+ - 
+ **Tools & Technologies**: SQL, MS Excel, Zendesk, OpenEMR, HEDIS, HL7
 
 ---
 
