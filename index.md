@@ -58,15 +58,15 @@ monitoring.
 
 ### Education & Certifications
 
-- **HealthStaff Training Institute** – Ontario, CA  
-  - **Program:** Clinical Medical Assistant Certification  
+- **🏥HealthStaff Training Institute** – Ontario, CA  
+  - **🩺Clinical Medical Assistant Certification**
     - **Completed:** June 2025  
-    - **Relevant Coursework:** Anatomy & Physiology, Pharmacology, Patient Care Fundamentals  
-  - **Program:** Certified Electronic Health Records Specialist (CEHRS) Course
+    - **Relevant Coursework:** Anatomy & Physiology, Pharmacology, Patient Care Fundamentals  <br>
+  - **💻Certified Electronic Health Records Specialist (CEHRS) Course**
     - **Expected Completion:** January 2026  
 
-- **Chabot College** – Hayward, CA  
-  - Attended: Over 20 years ago  
+- **🏫Chabot College** – Hayward, CA  
+    Attended: Over 20 years ago 
 
 - **🔐[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)**  
   - **Institution:** Johns Hopkins University (via Coursera)  
