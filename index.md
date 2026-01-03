@@ -48,7 +48,7 @@ monitoring.
 
 ---
   
-## 🎓 Education / Certifications / License
+## 🎓 Education / Certifications 
 <!--
 ### **Degree or Certification Name**  
 *Institution Name* – *Location*  
