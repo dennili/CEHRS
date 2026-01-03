@@ -108,7 +108,7 @@ monitoring.
  - Patient Scheduling & Coordination
  - Chart Audits & Documentation
 
- ** Technical Skills**
+**Technical Skills**
  - Data Entry & Management
  - Database Querying (SQL)
  - EHR Navigation & Optimization
