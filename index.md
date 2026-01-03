@@ -103,12 +103,12 @@ monitoring.
  - Database Querying (SQL)
  - EHR Navigation & Optimization
  - Troubleshooting Technical Issues
-
       
  **Tools & Technologies**: 
  - Customer Support Tools: Zendesk
  - Knowledge of Healthcare Data Standards: HL7, FHIR (Fast Healthcare Interoperability Resources)
  - Reporting & Analytics: Power BI
+   
 ---
 
 ## 🌟 Interests
