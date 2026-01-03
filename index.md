@@ -56,18 +56,25 @@ monitoring.
 - Relevant coursework or specialization.
 -->
 
-**Post-Secondary Education**  
-*Chabot College* – *Hayward, CA  2002*
-*Chaffey College* – *Rancho Cucamonga, CA 2025*
-*Completed 60+ units*  
+### Education & Certifications
+
+- **HealthStaff Training Institute** – Ontario, CA  
+  - **Program:** Clinical Medical Assistant Certification  
+    - **Completed:** June 2025  
+    - **Relevant Coursework:** Anatomy & Physiology, Pharmacology, Patient Care Fundamentals  
+  - **Certification:** Certified Electronic Health Records Specialist (CEHRS)  
+    - **Expected Completion:** January 2026  
+
+- **Chabot College** – Hayward, CA  
+  - Attended: Over 20 years ago  
+
+- **[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)**  
+  - **Institution:** Johns Hopkins University (via Coursera)  
+  - **Certificate of Completion:** December 2024  
 
 🔐[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)<br/>
   *John Hopkins University* – *Coursera*  
    Certificate of Completion 
-
-  **📋Medical Assistant Course**  
-  *HealthStaff Training institute* – *Ontario, CA*  
-  Certificate of Completion 
 
 ---
 
