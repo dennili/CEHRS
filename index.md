@@ -82,12 +82,6 @@ monitoring.
  - Electronic Health Records (EHR) Systems: OpenEMR
  - Practice Management Software: Practice Fusion, Simple Practice
  
-   
- **Tools & Technologies**: 
- - Customer Support Tools: Zendesk
- - Knowledge of Healthcare Data Standards: HL7, FHIR (Fast Healthcare Interoperability Resources)
- - Reporting & Analytics: Power BI
-
 **Regulatory & Compliance Knowledge**: 
  - HIPAA Compliance: Privacy Rule, Security Rule, Breach Notification Rule
  - PHI Handling: Safeguarding Protected Health Information (PHI)
@@ -109,6 +103,12 @@ monitoring.
  - Database Querying (SQL)
  - EHR Navigation & Optimization
  - Troubleshooting Technical Issues
+
+      
+ **Tools & Technologies**: 
+ - Customer Support Tools: Zendesk
+ - Knowledge of Healthcare Data Standards: HL7, FHIR (Fast Healthcare Interoperability Resources)
+ - Reporting & Analytics: Power BI
 ---
 
 ## 🌟 Interests
