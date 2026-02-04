@@ -10,7 +10,8 @@
 ## 📚 Profile
 
 
-- Currently preparing for the NHA's CEHRS certification exam
+- EHR Support Specialist | Health Information & Healthcare IT Support | Ontario, California
+- CEHRS‑certified EHR Support and Health Information professional with a strong foundation in clinical workflows, documentation accuracy, and digital health systems. Skilled in EHR navigation, chart review, data integrity, and user support across clinical and administrative environments. Brings a blended background in healthcare IT, technical troubleshooting, and documentation‑heavy roles that ensure accurate, compliant, and reliable patient information. Known for clear communication, strong attention to detail, and the ability to support users, maintain records, and optimize workflows in fast‑paced healthcare settings.
 - I am a passionate  with patient care  and privacy in healthcare.
 - I enjoy solving problems and learning new skills.
 - Fun fact: I love both healthcare and music because they both involve listening, creativity, and finding harmony.
@@ -19,58 +20,43 @@
 
 ## 💼 Work Experience
 
-### 🩺 **Medical Assistant Extern**  
-*JDMD Clinics* – *Ontario, CA*  
-*March 2025* – *June 2025*  
-- Performed patient intake, vital signs, and EHR charting using Practice Fusion, ensuring complete andaccurate medical records
-- Assisted with DOT physicals, medication administration (B12, insulin), and pre/post-procedure
-monitoring.
-- Managed front-desk operations including scheduling, registration, and maintaining up-to-date patient demographics and consent forms.
-
 ### 💻**RMA Coordinator**  
-*The Factory Depot* – *Riverside, CA*  
+*The Factory Depot* – *Ontario, CA*  
 *June 2019* – *May 2024*  
-- Managed return merchandise authorization (RMA) cases, achieving a 95% resolution rate within SLAs
-- Optimized return handling systems, improving processing efficiency by 30%
-- Resolved technical issues remotely and on-site, providing exceptional customer service.
+- Managed RMA cases, resolving technical issues and streamlining workflows to ensure accurate documentation and timely processing of returns
+- Prioritized and resolved critical RMA cases, achieving a 95% resolution rate within established SLAs, demonstrating attention to detail and adherence to deadlines
+- Supported data integrity by validating entries, updating records, and ensuring compliance with internal standards.
+- Optimized return handling systems, improving processing efficiency and reducing delays
+- Responded to inquiries and resolved issues in a timely and professional manner, ensuring customer satisfaction
+- Implemented efficient return management systems, ensuring accurate tracking, inspection, and resolution of returned products
 
-### 💻 **Technical Support Specialist**  
+### 💻 **Technical Support Representative**  
 *Charter Spectrum* – *Ontario, CA*  
 *November 2018* – *June 2019*  
-- Provided remote technical support for internet connectivity, wireless network configurations, and mobile troubleshooting.
-- Delivered timely resolutions with a focus on customer satisfaction and operational efficiency.
+- Delivered front‑line technical troubleshooting for software, hardware, and network issues.
+- Guided users through system navigation and issue resolution, strengthening customer support and IT problem‑solving skills.
+- Documented all interactions in ticketing systems with accuracy and clarity.
 
-### 💻 **Technical Support Specialist**  
-*Robert Half Technology* – *Irvine, CA*  
-*January 2018* – *November 2018*  
-- Supported end-users with technical issues, both in-person and remotely
-- Maintained accurate documentation of IT systems and procedures, ensuring compliance with organizational standards.
+### 💻 **Desktop Support Coordinator**  
+*Native American Health Center* – *Oakland, CA*  
+*February 2007* – *August 2008*  
+- Provided IT support to clinical and administrative staff in a healthcare setting.
+- Supported EHR‑like systems, user access, password resets, and workstation setup.
+- Ensured HIPAA compliance and protected patient information during all support activities.
+- Collaborated with NAHC's clinical staff to maintain smooth digital workflows and minimize downtime.
 
 ---
   
-## 🎓 Education / Certifications 
-<!--
-### **Degree or Certification Name**  
-*Institution Name* – *Location*  
-*Year Completed*  
-- Relevant coursework or specialization.
--->
 
-### Education & Certifications
 
-- **🏥HealthStaff Training Institute** – Ontario, CA  
-  - **🩺Clinical Medical Assistant Certification**
-    - **Completed:** June 2025  
-    - **Relevant Coursework:** Anatomy & Physiology, Pharmacology, Patient Care Fundamentals  <br>
-  - **💻Certified Electronic Health Records Specialist (CEHRS) Course**
-    - **Expected Completion:** January 2026  
+### Certifications & Licenses
 
-- **🏫Chabot College** – Hayward, CA  
-    Attended: Over 20 years ago 
+- **Certified Electronic Health Records Specialist (CEHRS) - NHA**
+- **Healthcare IT Support Certificate - by John Hopkins University/Coursera**
+- **HIPAA & HITECH Compliance Training**
+- **CNA - California #01358120**
 
-- **🔐[HealthCare IT Support](https://coursera.org/share/871dbbc824d66ccf633c8862221fef98)**  
-  - **Institution:** Johns Hopkins University (via Coursera)  
-  - **Certificate of Completion:** December 2024  
+    
 
 ---
 
@@ -87,16 +73,25 @@ monitoring.
  - PHI Handling: Safeguarding Protected Health Information (PHI)
  - Healthcare Regulations: HITECH Act, OSHA Guidelines
 
-**Soft Skills**: 
- - Attention to Detail
- - Strong Communication (Verbal & Written)
- - Problem-Solving & Analytical Thinking
- - Customer Service
+**EHR Support**: 
+ - EHR Navigation & Troubleshooting
+ - Chart Review & Documentation Accuracy
+ - Clinical Workflow Support
+ - Data Integrity & Quality Checks
+ - Release of Information (ROI) Fundamentals
+ - Patient Registration & Scheduling Workflows
+ - Interoperability Basics (HL7, Data Flow)
+ - HIPAA/HITECH Compliance
+ 
 
-**Clinical & Administrative Skills**:
- - Medical Terminology
- - Patient Scheduling & Coordination
- - Chart Audits & Documentation
+**Healthcare IT SUpport**:
+ - Technical Troubleshooting (Software, Hardware, Network)
+ - Ticketing Systems & Documentation
+ - User Access, Password Resets, Account Provisioning
+ - Remote Support Tools (VPN, RDP)
+ - Windows OS & Microsoft 365
+ - Cross‑Functional Collaboration
+ - Customer/End‑User Support
 
 **Technical Skills**:
  - Data Entry & Management
@@ -104,10 +99,18 @@ monitoring.
  - EHR Navigation & Optimization
  - Troubleshooting Technical Issues
       
- **Tools & Technologies**: 
- - Customer Support Tools: Zendesk
- - Knowledge of Healthcare Data Standards: HL7, FHIR (Fast Healthcare Interoperability Resources)
- - Reporting & Analytics: Power BI
+ **Technical Skills**: 
+ - EHR Systems
+ - PCC (PointClickCare)
+ - Simple Practice
+ - Epic & Cerner (Conceptual Knowledge)
+ - OpenEMR
+ - Ticketing Systems
+ - Microsof 365
+ - Windows OS
+ - SQL
+ - Intermediate programming knowledge
+   
    
 ---
 
