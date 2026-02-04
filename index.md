@@ -47,8 +47,6 @@
 
 ---
   
-
-
 ### Certifications & Licenses
 
 - **Certified Electronic Health Records Specialist (CEHRS) - NHA**
@@ -57,21 +55,11 @@
 - **CNA - California #01358120**
 
     
-
 ---
 
 ## 💪 Skills
 
- **Software Skills**:
- - SQL
- - MS Excel (VLookUp, Data Analysis, Formulas)
- - Electronic Health Records (EHR) Systems: OpenEMR
- - Practice Management Software: Practice Fusion, Simple Practice
- 
-**Regulatory & Compliance Knowledge**: 
- - HIPAA Compliance: Privacy Rule, Security Rule, Breach Notification Rule
- - PHI Handling: Safeguarding Protected Health Information (PHI)
- - Healthcare Regulations: HITECH Act, OSHA Guidelines
+
 
 **EHR Support**: 
  - EHR Navigation & Troubleshooting
@@ -83,7 +71,6 @@
  - Interoperability Basics (HL7, Data Flow)
  - HIPAA/HITECH Compliance
  
-
 **Healthcare IT SUpport**:
  - Technical Troubleshooting (Software, Hardware, Network)
  - Ticketing Systems & Documentation
@@ -93,11 +80,10 @@
  - Cross‑Functional Collaboration
  - Customer/End‑User Support
 
-**Technical Skills**:
- - Data Entry & Management
- - Database Querying (SQL)
- - EHR Navigation & Optimization
- - Troubleshooting Technical Issues
+**Regulatory & Compliance Knowledge**: 
+ - HIPAA Compliance: Privacy Rule, Security Rule, Breach Notification Rule
+ - PHI Handling: Safeguarding Protected Health Information (PHI)
+ - Healthcare Regulations: HITECH Act, OSHA Guidelines
       
  **Technical Skills**: 
  - EHR Systems
